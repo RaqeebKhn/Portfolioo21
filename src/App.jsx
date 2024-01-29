@@ -2,6 +2,8 @@ import React from 'react'
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
 import Hero from './Components/Hero/Hero';
+import Skills from './Components/Skills/Skills';
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
 
       <div className='container'>
         <Hero />
+        <Skills />
       </div>
       
     </>
