@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-.form {
+form {
     display: flex;
     flex-direction: column;
     grid-gap: 1.5rem;
@@ -32,7 +32,7 @@ form button {
     color: #fff;
     border: 1.5px solid #a892fe;
     border-radius: 0.6rem;
-    background: linear-gradient(90deg, #a892fe 0%, #8064e8 100%,);
+    background: linear-gradient(90deg, #a892fe 0%, #8064e8 100%);
     padding: 0.7rem;
     transition: all 0.3s ease;
     cursor: pointer;
