@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className='hero-container'>
         <div className='hero-content'>
-            <h2>Building Digital Experiences That Inspire</h2>
+            <h2>Raqeeb Khan</h2>
             <p>
                 Passionate Frontend Developer | Transforming Ideas Into Seamless and Visually Stunning Web Solutions
             </p>
