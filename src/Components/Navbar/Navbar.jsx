@@ -20,16 +20,16 @@ const Navbar = () => {
             <img className='logo' src='./Images/icon1.svg' alt=''></img>
             <ul>
                 <li>
-                    <a className='menu-item'>Home</a>
+                    <a href="/" className='menu-item'>Home</a>
                 </li>
                 <li>
-                    <a className='menu-item'>Skills</a>
+                    <a href="/" className='menu-item'>Skills</a>
                 </li>
                 <li>
-                    <a className='menu-item'>Work Experience</a>
+                    <a href="/" className='menu-item'>Work Experience</a>
                 </li>
                 <li>
-                    <a className='menu-item'>Contact Me</a>
+                    <a href="/" className='menu-item'>Contact Me</a>
                 </li>
                 <button className='contact-btn' onClick={ ()=>{}}>
                     Hire me
