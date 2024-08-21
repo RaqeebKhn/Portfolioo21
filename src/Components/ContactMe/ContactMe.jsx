@@ -13,7 +13,7 @@ const ContactMe = () => {
             <div style={{flex: 1}}>
                 <ContactInfoCard
                 iconURL='./Images/icons8-mail1-48.png'
-                text='khan.raqeeb2231997@gmail.com'
+                text='mraqeebkhan.mrk@gmail.com'
                 />
                 <ContactInfoCard
                 iconURL='Images/icons8-github1-48.png'
